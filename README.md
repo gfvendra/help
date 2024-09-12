@@ -7,4 +7,4 @@ Nessa página, irei postar alguns tutoriais que no decorrer da minha carreira eu
 
  Sistemas | Descrição|
 | --- | --- |
-| Senior Sistemas | [Material](https://github.com/gfvendra/gfvendra/blob/main/help/SeniorSistemas/seniorsistemas.md) |
+| Senior Sistemas | [Material](https://github.com/gfvendra/help/blob/main/SeniorSistemas/seniorsistemas.md) |
