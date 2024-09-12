@@ -5,6 +5,8 @@
 - [Blog](https://www.senior.com.br/blog)
 - [Portal de Documentação](https://documentacao.senior.com.br/)
 
+> Lembre-se, você sempre pode verificar o portal de documentação para dúvidas.
+
 ### Dicas
 
  Sistemas | Descrição|
